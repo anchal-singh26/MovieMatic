@@ -1,8 +1,8 @@
 {
-  "name": "movieapp",
+  "name": "moviematic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anchal-singh26.github.io/movieapp",
+  "homepage": "https://anchal-singh26.github.io/Movie-Matic",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/dom": "^10.4.1",
