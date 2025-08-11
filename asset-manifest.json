@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MovieMatic/static/css/main.7f1466f5.css",
-    "main.js": "/MovieMatic/static/js/main.6b902e2f.js",
+    "main.js": "/MovieMatic/static/js/main.6ce5eddb.js",
     "static/js/453.07886708.chunk.js": "/MovieMatic/static/js/453.07886708.chunk.js",
     "static/media/user.jpg": "/MovieMatic/static/media/user.3cfd06bbe91963eda355.jpg",
     "static/media/logo3.png": "/MovieMatic/static/media/logo3.c0d61b83e969efb120c1.png",
     "index.html": "/MovieMatic/index.html",
     "main.7f1466f5.css.map": "/MovieMatic/static/css/main.7f1466f5.css.map",
-    "main.6b902e2f.js.map": "/MovieMatic/static/js/main.6b902e2f.js.map",
+    "main.6ce5eddb.js.map": "/MovieMatic/static/js/main.6ce5eddb.js.map",
     "453.07886708.chunk.js.map": "/MovieMatic/static/js/453.07886708.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f1466f5.css",
-    "static/js/main.6b902e2f.js"
+    "static/js/main.6ce5eddb.js"
   ]
 }
